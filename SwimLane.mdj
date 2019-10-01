@@ -701,7 +701,7 @@
 											"top": 263,
 											"width": 166.83544921875,
 											"height": 13,
-											"text": "개인정보 입력 화면 보여주기"
+											"text": "개인정보입력 화면 보여주기"
 										},
 										{
 											"_type": "LabelView",
@@ -804,9 +804,9 @@
 											"font": "Arial;13;1",
 											"left": 141,
 											"top": 303,
-											"width": 78,
+											"width": 81.61181640625,
 											"height": 13,
-											"text": "개인정보입력"
+											"text": "개인정보 입력"
 										},
 										{
 											"_type": "LabelView",
@@ -839,7 +839,7 @@
 									"font": "Arial;13;0",
 									"left": 136,
 									"top": 296,
-									"width": 88,
+									"width": 91.61181640625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFthgS9say42xA="
@@ -862,7 +862,7 @@
 							"containerChangeable": true,
 							"left": 136,
 							"top": 296,
-							"width": 88,
+							"width": 91.61181640625,
 							"height": 41,
 							"nameCompartment": {
 								"$ref": "AAAAAAFthgS9say3MsQ="
@@ -1295,7 +1295,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 261,
+									"left": 264,
 									"top": 308,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -1316,7 +1316,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 264,
+									"left": 267,
 									"top": 323,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -1337,7 +1337,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 256,
+									"left": 257,
 									"top": 279,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -1356,7 +1356,7 @@
 								"$ref": "AAAAAAFthgS7uKyduFs="
 							},
 							"lineStyle": 1,
-							"points": "295:293;224:307",
+							"points": "295:293;228:307",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAFthgZ8hq2bWeM="
@@ -1389,7 +1389,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 265,
+									"left": 268,
 									"top": 311,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -1410,7 +1410,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 268,
+									"left": 271,
 									"top": 296,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -1431,7 +1431,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 260,
+									"left": 261,
 									"top": 340,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -1450,7 +1450,7 @@
 								"$ref": "AAAAAAFthgS9say2ph0="
 							},
 							"lineStyle": 1,
-							"points": "224:325;303:340",
+							"points": "228:325;303:340",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAFthgaB8a2sDTI="
@@ -1816,7 +1816,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFthgN16Kwank4="
 							},
-							"name": "개인정보입력"
+							"name": "개인정보 입력"
 						},
 						{
 							"_type": "UMLAction",
@@ -1858,7 +1858,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFthgONa6wiFBI="
 							},
-							"name": "개인정보 입력 화면 보여주기"
+							"name": "개인정보입력 화면 보여주기"
 						}
 					]
 				}
